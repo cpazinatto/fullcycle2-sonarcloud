@@ -11,22 +11,22 @@ func sum(a int, b int) int {
 	return a + b
 }
 
-// Soma dois números inteiros.
-func sum2(a int, b int) int {
-	return a + b + a
-}
+// // Soma dois números inteiros.
+// func sum2(a int, b int) int {
+// 	return a + b + a
+// }
 
-// Subtrai dois números inteiros.
-func subtraction(a int, b int) int {
-	return a - b
-}
+// // Subtrai dois números inteiros.
+// func subtraction(a int, b int) int {
+// 	return a - b
+// }
 
-// Subtrai dois números inteiros.
-func subtraction2(a int, b int) int {
-	return a - b - a + b
-}
+// // Subtrai dois números inteiros.
+// func subtraction2(a int, b int) int {
+// 	return a - b - a + b
+// }
 
-// Multiplica dois números inteiros.
-func times2(a int, b int) int {
-	return a * b * a
-}
+// // Multiplica dois números inteiros.
+// func times2(a int, b int) int {
+// 	return a * b * a
+// }
